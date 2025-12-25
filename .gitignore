@@ -1,0 +1,22 @@
+node_modules/
+dist/
+build/
+*.log
+.env*
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C# / Unity
+bin/
+obj/
+*.user
+*.suo
+packages/
