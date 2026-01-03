@@ -11,7 +11,7 @@ npm notice PONG 1070ms
 
 ### Target Folder Confirmation
 
-**Current Working Directory**: `/c/Users/Hasnain/Desktop/hacktoon practice/book`
+**Current Working Directory**: `/c/Users/arfa/Desktop/hacktoon practice/book`
 
 **Conflicting Files Check**: No conflicting files found. The directory is suitable for Docusaurus initialization.
 
